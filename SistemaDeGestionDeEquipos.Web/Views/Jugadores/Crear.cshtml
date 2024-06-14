@@ -1,0 +1,31 @@
+﻿﻿﻿@using SistemaDeGestionDeEquipos.Data.Entidades
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using SistemaDeGestionDeEquipos.Data.Entidades
+@model List<SistemaDeGestionDeEquipos.Data.Entidades.Jugador>
+
+@{
+    ViewBag.Title = "Crear";
+}
+
+<h2>Crear</h2>
+
+<form action="/Jugadores/Crear" method="post">
+
+    <div class="form-group">
+        <label for="NombreCompleto">Nombre Completo</label>
+        <input type="text" class="form-control" id="NombreCompleto" name="NombreCompleto" placeholder="Nombre Completo">
+    </div>
+
+    <div>
+        Equipo:
+        <select name="IdEquipo">
+            @foreach (Equipo equipo in ViewBag.Equipos)
+            {
+                <option value="@equipo.IdEquipo">@equipo.NombreEquipo</option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Crear</button>
+
+</form>

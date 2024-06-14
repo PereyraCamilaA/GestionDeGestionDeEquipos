@@ -1,0 +1,61 @@
+﻿﻿@using SistemaDeGestionDeEquipos.Data.Entidades
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using SistemaDeGestionDeEquipos.Data.Entidades
+@model List<SistemaDeGestionDeEquipos.Data.Entidades.Jugador>
+
+@{
+    ViewBag.Title = "Jugadores";
+}
+
+
+<h2>Jugadores</h2>
+
+<form action="/Jugadores/Index" method="post">
+    <div>
+        Equipo:
+        <select name="IdEquipo">
+            <option value="">Todos</option>
+            @foreach (Equipo equipo in ViewBag.Equipos)
+            {
+                if (ViewBag.IdEquipoSeleccionado == equipo.IdEquipo)
+                {
+                    <option selected="selected" value="@equipo.IdEquipo">@equipo.NombreEquipo</option>
+                }
+                else
+                {
+                    <option value="@equipo.IdEquipo">@equipo.NombreEquipo</option>
+                }
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Filtrar</button>
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model[0].NombreCompleto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model[0].IdEquipo)
+            </th>
+            <th>
+                Nombre del Equipo
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreCompleto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdEquipo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdEquipoNavigation.NombreEquipo)
+                </td>
+            </tr>
+        }
+    </table>
+</form>

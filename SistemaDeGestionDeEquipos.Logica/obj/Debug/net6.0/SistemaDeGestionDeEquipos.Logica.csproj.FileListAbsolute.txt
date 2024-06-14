@@ -1,0 +1,17 @@
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.deps.json
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.runtimeconfig.json
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.dll
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.pdb
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.csproj.AssemblyReference.cache
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.AssemblyInfoInputs.cache
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.AssemblyInfo.cs
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.csproj.CoreCompileInputs.cache
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.dll
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\refint\SistemaDeGestionDeEquipos.Logica.dll
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.pdb
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Logica.genruntimeconfig.cache
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\ref\SistemaDeGestionDeEquipos.Logica.dll
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Data.dll
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Data.pdb
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Logica\obj\Debug\net6.0\SistemaD.51705639.Up2Date

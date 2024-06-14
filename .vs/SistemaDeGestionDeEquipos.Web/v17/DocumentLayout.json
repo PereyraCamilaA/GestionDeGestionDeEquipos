@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perey\\source\\repos\\SistemaDeGestionDeEquipos.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD002948-BB9E-429A-85F5-CEAB83C3FE6C}|SistemaDeGestionDeEquipos.Web\\SistemaDeGestionDeEquipos.Web.csproj|c:\\users\\perey\\source\\repos\\sistemadegestiondeequipos.web\\sistemadegestiondeequipos.web\\controllers\\jugadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD002948-BB9E-429A-85F5-CEAB83C3FE6C}|SistemaDeGestionDeEquipos.Web\\SistemaDeGestionDeEquipos.Web.csproj|solutionrelative:sistemadegestiondeequipos.web\\controllers\\jugadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD002948-BB9E-429A-85F5-CEAB83C3FE6C}|SistemaDeGestionDeEquipos.Web\\SistemaDeGestionDeEquipos.Web.csproj|c:\\users\\perey\\source\\repos\\sistemadegestiondeequipos.web\\sistemadegestiondeequipos.web\\views\\jugadores\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD002948-BB9E-429A-85F5-CEAB83C3FE6C}|SistemaDeGestionDeEquipos.Web\\SistemaDeGestionDeEquipos.Web.csproj|solutionrelative:sistemadegestiondeequipos.web\\views\\jugadores\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD002948-BB9E-429A-85F5-CEAB83C3FE6C}|SistemaDeGestionDeEquipos.Web\\SistemaDeGestionDeEquipos.Web.csproj|c:\\users\\perey\\source\\repos\\sistemadegestiondeequipos.web\\sistemadegestiondeequipos.web\\views\\jugadores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD002948-BB9E-429A-85F5-CEAB83C3FE6C}|SistemaDeGestionDeEquipos.Web\\SistemaDeGestionDeEquipos.Web.csproj|solutionrelative:sistemadegestiondeequipos.web\\views\\jugadores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JugadoresController.cs",
+              "DocumentMoniker": "C:\\Users\\perey\\source\\repos\\SistemaDeGestionDeEquipos.Web\\SistemaDeGestionDeEquipos.Web\\Controllers\\JugadoresController.cs",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeEquipos.Web\\Controllers\\JugadoresController.cs",
+              "ToolTip": "C:\\Users\\perey\\source\\repos\\SistemaDeGestionDeEquipos.Web\\SistemaDeGestionDeEquipos.Web\\Controllers\\JugadoresController.cs",
+              "RelativeToolTip": "SistemaDeGestionDeEquipos.Web\\Controllers\\JugadoresController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:34:55.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\perey\\source\\repos\\SistemaDeGestionDeEquipos.Web\\SistemaDeGestionDeEquipos.Web\\Views\\Jugadores\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeEquipos.Web\\Views\\Jugadores\\Index.cshtml",
+              "ToolTip": "C:\\Users\\perey\\source\\repos\\SistemaDeGestionDeEquipos.Web\\SistemaDeGestionDeEquipos.Web\\Views\\Jugadores\\Index.cshtml",
+              "RelativeToolTip": "SistemaDeGestionDeEquipos.Web\\Views\\Jugadores\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T00:34:37.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\perey\\source\\repos\\SistemaDeGestionDeEquipos.Web\\SistemaDeGestionDeEquipos.Web\\Views\\Jugadores\\Crear.cshtml",
+              "RelativeDocumentMoniker": "SistemaDeGestionDeEquipos.Web\\Views\\Jugadores\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\perey\\source\\repos\\SistemaDeGestionDeEquipos.Web\\SistemaDeGestionDeEquipos.Web\\Views\\Jugadores\\Crear.cshtml",
+              "RelativeToolTip": "SistemaDeGestionDeEquipos.Web\\Views\\Jugadores\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T00:34:33.4Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

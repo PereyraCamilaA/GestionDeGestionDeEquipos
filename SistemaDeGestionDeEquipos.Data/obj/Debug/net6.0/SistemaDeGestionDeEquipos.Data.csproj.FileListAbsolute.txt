@@ -1,0 +1,14 @@
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Data\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Data.deps.json
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Data\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Data.runtimeconfig.json
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Data\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Data.dll
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Data\bin\Debug\net6.0\SistemaDeGestionDeEquipos.Data.pdb
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.csproj.AssemblyReference.cache
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.AssemblyInfoInputs.cache
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.AssemblyInfo.cs
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.csproj.CoreCompileInputs.cache
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.dll
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\refint\SistemaDeGestionDeEquipos.Data.dll
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.pdb
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\SistemaDeGestionDeEquipos.Data.genruntimeconfig.cache
+C:\Users\perey\source\repos\SistemaDeGestionDeEquipos.Web\SistemaDeGestionDeEquipos.Data\obj\Debug\net6.0\ref\SistemaDeGestionDeEquipos.Data.dll
